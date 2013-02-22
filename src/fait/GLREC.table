@@ -1,0 +1,5 @@
+GLREC_NUM Integer 8 0 Yes Yes
+GLREC_NUMVER Integer 2 0 Yes No	
+GLREC_big BigDecimal 11 2 Yes No
+GLREC_string String 32 0 Yes No
+DTD Date 0 0 No No
